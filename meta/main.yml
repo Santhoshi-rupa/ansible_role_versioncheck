@@ -29,4 +29,10 @@ galaxy_info:
     - always
     - ansibleversion
     - new tag
+    - version
+    - playbook
+    - versioncheck
+    - always
+    - ansibleversion
+    - new tag
 dependencies: []
