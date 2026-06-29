@@ -26,6 +26,8 @@ galaxy_info:
     - version
     - playbook
     - versioncheck
+     - playbook
+    - versioncheck..........................................................
     - always
     - ansibleversion
     - new tag
