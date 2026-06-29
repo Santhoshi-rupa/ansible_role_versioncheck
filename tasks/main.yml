@@ -4,5 +4,5 @@
     that:
       - "ansible_version.full is version_compare(check_ansible_version, '>=')"
     fail_msg: "[ERROR] You need at least ansible version {{ check_ansible_version }}. Current Version: {{ ansible_version.full }}"
-    success_msg: "Congratulations. You are using ansible version {{ ansible_version.full }}"
+    success_msg: "Congratulations.................. You are using ansible version {{ ansible_version.full }}"
   delegate_to: localhost
